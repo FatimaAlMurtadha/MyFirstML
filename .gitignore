@@ -2,3 +2,5 @@
 .idea
 sklearn-env
 /ÖvningsUppgifterFatimaAlMurtadha.ipynb
+
+__pycache__
